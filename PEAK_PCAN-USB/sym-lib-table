@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "78253_55JC-R")(type "KiCad")(uri "${KIPRJMOD}/custom/78253_55JC-R.kicad_sym")(options "")(descr ""))
+  (lib (name "SJA1000T")(type "KiCad")(uri "${KIPRJMOD}/custom/SJA1000T.kicad_sym")(options "")(descr ""))
+)
